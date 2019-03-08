@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "264108528542",
+    "firebase_url": "https://fir-course-e4df2.firebaseio.com",
+    "project_id": "fir-course-e4df2",
+    "storage_bucket": "fir-course-e4df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264108528542:android:8d561d17d2dd157f",
+        "android_client_info": {
+          "package_name": "com.santosenoque.firebase_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264108528542-9u53g58ok7bi2n7huiovpm6uqjeu51fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBRJTI1SshGsufuxFe-7IwYWjrp4uwo_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
